@@ -1,0 +1,30 @@
+/* Style Home Page */
+.dash{
+    width: 98%;
+    /* background-color: #00bcd470; */
+    border-radius: 4px;
+    padding: 1%;
+
+}
+.card{
+    width: 28.3%;
+    height: 109px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 4px;
+    box-shadow: 1px 1px 4px 1px #ddd;
+    padding: 10px;
+    text-align: right;
+    color: white;
+    background:linear-gradient(265deg, #00bcd4, #27e7ff);
+}
+.card h1{
+    font-size: 25px;
+    font-family: system-ui;
+}
+.card p{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: system-ui;
+    font-weight: 900;
+}
